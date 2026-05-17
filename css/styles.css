@@ -1744,6 +1744,60 @@ body[data-site-classes~="dark-mode"] .changelog-badge-removed {
     color: var(--text-secondary);
 }
 
+.legal-page {
+    padding-top: 4rem;
+}
+
+.legal-content {
+    margin: 0 auto;
+}
+
+.legal-eyebrow {
+    color: var(--primary-color);
+    font-size: 0.875rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    margin-bottom: 0.5rem;
+    text-transform: uppercase;
+}
+
+.legal-updated,
+.legal-note {
+    color: var(--text-muted);
+    font-size: 0.95rem;
+}
+
+.legal-note {
+    background: var(--bg-light);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-sm);
+    padding: 0.875rem 1rem;
+}
+
+.legal-language-switcher {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 1.5rem 0 2.25rem;
+}
+
+.legal-language-link {
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-sm);
+    color: var(--text-muted);
+    font-size: 0.9rem;
+    font-weight: 600;
+    padding: 0.35rem 0.65rem;
+    text-decoration: none;
+}
+
+.legal-language-link:hover,
+.legal-language-link.active {
+    border-color: rgba(var(--primary-rgb), 0.35);
+    color: var(--primary-color);
+    text-decoration: none;
+}
+
 .footer-links {
     margin-bottom: 1rem;
     display: flex;

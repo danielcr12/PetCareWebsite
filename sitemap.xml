@@ -1,1 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://example.com/</loc><priority>1.0</priority></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://danielcr12.github.io/PetCareWebsite/</loc><priority>1.0</priority></url>
+  <url><loc>https://danielcr12.github.io/PetCareWebsite/privacy/</loc><priority>0.8</priority></url>
+  <url><loc>https://danielcr12.github.io/PetCareWebsite/terms/</loc><priority>0.8</priority></url>
+  <url><loc>https://danielcr12.github.io/PetCareWebsite/deletion/</loc><priority>0.8</priority></url>
+  <url><loc>https://danielcr12.github.io/PetCareWebsite/de/privacy/</loc><priority>0.5</priority></url>
+  <url><loc>https://danielcr12.github.io/PetCareWebsite/de/terms/</loc><priority>0.5</priority></url>
+  <url><loc>https://danielcr12.github.io/PetCareWebsite/de/deletion/</loc><priority>0.5</priority></url>
+  <url><loc>https://danielcr12.github.io/PetCareWebsite/es-419/privacy/</loc><priority>0.5</priority></url>
+  <url><loc>https://danielcr12.github.io/PetCareWebsite/es-419/terms/</loc><priority>0.5</priority></url>
+  <url><loc>https://danielcr12.github.io/PetCareWebsite/es-419/deletion/</loc><priority>0.5</priority></url>
+  <url><loc>https://danielcr12.github.io/PetCareWebsite/hi/privacy/</loc><priority>0.5</priority></url>
+  <url><loc>https://danielcr12.github.io/PetCareWebsite/hi/terms/</loc><priority>0.5</priority></url>
+  <url><loc>https://danielcr12.github.io/PetCareWebsite/hi/deletion/</loc><priority>0.5</priority></url>
+  <url><loc>https://danielcr12.github.io/PetCareWebsite/th/privacy/</loc><priority>0.5</priority></url>
+  <url><loc>https://danielcr12.github.io/PetCareWebsite/th/terms/</loc><priority>0.5</priority></url>
+  <url><loc>https://danielcr12.github.io/PetCareWebsite/th/deletion/</loc><priority>0.5</priority></url>
+  <url><loc>https://danielcr12.github.io/PetCareWebsite/tr/privacy/</loc><priority>0.5</priority></url>
+  <url><loc>https://danielcr12.github.io/PetCareWebsite/tr/terms/</loc><priority>0.5</priority></url>
+  <url><loc>https://danielcr12.github.io/PetCareWebsite/tr/deletion/</loc><priority>0.5</priority></url>
+</urlset>
